@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Japanese-Korean Live Translator",
+  "description": "A real-time camera application that scans Japanese text and translates it into Korean using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
